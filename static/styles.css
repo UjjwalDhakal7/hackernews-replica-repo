@@ -1,5 +1,4 @@
 
-.media 
 
 .top-navbar {
     background-color: #272397;
@@ -409,7 +408,7 @@
             
                 .footer-btn {
                     padding: 10px 50px 5px 15px;
-                    background-color: ##425a78!important;
+                    background-color: #425a78!important;
                     border: 1px solid #d2d4e2;
                     border-radius: 8px;
                     
@@ -471,8 +470,14 @@
 .a {
     background-color: #1022C3;
     transition: background-color 0.2s;
+
+    
 }
 
 .a:hover{
-    background-color
+    background-color :#555555
+}
+
+.links{
+    text-decoration: none;
 }
